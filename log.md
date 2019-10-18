@@ -22,9 +22,9 @@
 
 ### Day 3: October 18, 2019
 
-**Today's Progress**: I have completed four questions on hackerearth
+**Today's Progress**: I have solve five questions on hackerearth
 
-**Thoughts:** I calculated the duration of time * 
+**Thoughts:** I calculated the duration of time and print the numbers * 
 
 **Link to work:** [Duration](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Duration.py)
 **Link to work:** [Print the Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Print%20the%20Numbers.py)
