@@ -18,3 +18,12 @@
 **Thoughts:** i calculated the maximum number out of three numbers * 
 
 **Link to work:** [Back to school](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/back-to-school-1/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Back%20to%20school.py)
+# 100 Days Of Code - Log
+
+### Day 3: October 18, 2019
+
+**Today's Progress**: I have completed four questions on hackerearth
+
+**Thoughts:** I calculated the duration of time * 
+
+**Link to work:** [Duration](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Duration.py)
