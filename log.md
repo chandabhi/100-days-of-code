@@ -28,3 +28,13 @@
 
 **Link to work:** [Duration](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Duration.py)
 **Link to work:** [Print the Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Print%20the%20Numbers.py)
+# 100 Days Of Code - Log
+
+### Day 6: October 21, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I calculated the print the prime number and palindromic string * 
+
+**Link to work:** [Prime number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Prime%20number.py)
+**Link to work:** [Palindromic string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Palindromic%20string.py)
