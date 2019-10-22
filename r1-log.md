@@ -12,3 +12,5 @@ completed three questions on hackerearth,solve problam(Back to school)
 continue coding on hackerearth 
 ### R1D6
 continue coding on hackerearth
+### R1D7
+continue coding on hackerearth
