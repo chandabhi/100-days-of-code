@@ -38,3 +38,12 @@
 
 **Link to work:** [Prime number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Prime%20number.py)
 **Link to work:** [Palindromic string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Palindromic%20string.py)
+# 100 Days Of Code - Log
+
+### Day 7: October 22, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I find the product of numbers * 
+
+**Link to work:** [Find Product](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Find%20product.py)
