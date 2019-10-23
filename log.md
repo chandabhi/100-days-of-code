@@ -47,3 +47,12 @@
 **Thoughts:** I find the product of numbers * 
 
 **Link to work:** [Find Product](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Find%20product.py)
+# 100 Days Of Code - Log
+
+### Day 7: October 23, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I count the divisors between two numbers* 
+
+**Link to work:** [Count divisors](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Count%20Divisors.py)
