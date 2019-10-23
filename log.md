@@ -49,7 +49,7 @@
 **Link to work:** [Find Product](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Find%20product.py)
 # 100 Days Of Code - Log
 
-### Day 7: October 23, 2019
+### Day 8: October 23, 2019
 
 **Today's Progress**: I have continue solving questions on hackerearth
 
