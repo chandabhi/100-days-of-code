@@ -14,3 +14,7 @@ continue coding on hackerearth
 continue coding on hackerearth
 ### R1D7
 continue coding on hackerearth
+### R1D8
+continue coding on hackerearth
+### R1D9
+continue coding on hackerearth
