@@ -56,3 +56,12 @@
 **Thoughts:** I count the divisors between two numbers* 
 
 **Link to work:** [Count divisors](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Count%20Divisors.py)
+# 100 Days Of Code - Log
+
+### Day 9: October 24, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I find the fatorial of a number* 
+
+**Link to work:** [Factorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Factorial.py)
