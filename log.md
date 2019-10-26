@@ -65,3 +65,13 @@
 **Thoughts:** I find the fatorial of a number* 
 
 **Link to work:** [Factorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Factorial.py)
+# 100 Days Of Code - Log
+
+### Day 11: October 26, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have check the divisibility of array and goki's choose friend* 
+
+**Link to work:** [Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/) [- solution]https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisible.py)
+**Link to work:** [Goki and his breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Goki%20and%20his%20breakup.py)
