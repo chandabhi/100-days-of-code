@@ -27,6 +27,7 @@
 **Thoughts:** I calculated the duration of time and print the numbers * 
 
 **Link to work:** [Duration](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Duration.py)
+
 **Link to work:** [Print the Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Print%20the%20Numbers.py)
 # 100 Days Of Code - Log
 
@@ -37,6 +38,7 @@
 **Thoughts:** I calculated the print the prime number and palindromic string * 
 
 **Link to work:** [Prime number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Prime%20number.py)
+
 **Link to work:** [Palindromic string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Palindromic%20string.py)
 # 100 Days Of Code - Log
 
@@ -74,6 +76,7 @@
 **Thoughts:** I have check the divisibility of array and goki's choose friend* 
 
 **Link to work:** [Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisible.py)
+
 **Link to work:** [Goki and his breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Goki%20and%20his%20breakup.py)
 # 100 Days Of Code - Log
 
@@ -84,4 +87,5 @@
 **Thoughts:** I have print the ladder and help to find book of potion making * 
 
 **Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Ladderophilia.py)
+
 **Link to work:** [Book of potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Book%20of%20potion%20making.py)
