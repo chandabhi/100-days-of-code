@@ -89,3 +89,12 @@
 **Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Ladderophilia.py)
 
 **Link to work:** [Book of potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Book%20of%20potion%20making.py)
+# 100 Days Of Code - Log
+
+### Day 15: October 30, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have calculate the sum of weight of charater of string  * 
+
+**Link to work:** [Char sum](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/char%20sum.py)
