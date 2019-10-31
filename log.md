@@ -98,3 +98,12 @@
 **Thoughts:** I have calculate the sum of weight of charater of string  * 
 
 **Link to work:** [Char sum](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/char%20sum.py)
+# 100 Days Of Code - Log
+
+### Day 16: October 31, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have check a number form by last digit of given array element*
+
+**Link to work:** [Divisibility](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisibility.py)
