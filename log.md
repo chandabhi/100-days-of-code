@@ -107,3 +107,12 @@
 **Thoughts:** I have check a number form by last digit of given array element*
 
 **Link to work:** [Divisibility](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisibility.py)
+# 100 Days Of Code - Log
+
+### Day 17: November 1, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have print hello kirti *
+
+**Link to work:** [Hello](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/hello-32/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Hello.py)
