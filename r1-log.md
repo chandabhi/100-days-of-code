@@ -20,3 +20,11 @@ continue coding on hackerearth
 continue coding on hackerearth
 ### R1D11
 continue coding on hackerearth
+### R1D13
+continue coding on hackerearth
+### R1D15
+continue coding on hackerearth
+### R1D16
+continue coding on hackerearth
+### R1D17
+continue coding on hackerearth
