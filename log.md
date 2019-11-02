@@ -115,4 +115,12 @@
 
 **Thoughts:** I have print hello kirti *
 
-**Link to work:** [Hello](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/hello-32/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Hello.py)
+**Link to work:** [Hello](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/hello-32/) [- solution](https://github.com/Gujjar1998/Competitive-# 100 Days Of Code - Log
+
+### Day 18: November 2, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have print the first 10 multiple of any no. *
+
+**Link to work:** [I am Easy](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/i-am-easy/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/I%20am%20Easy.py)
