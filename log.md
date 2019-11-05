@@ -131,3 +131,10 @@
 **Thoughts:** I have print yes if teddy gives all chocolates to tweety *
 
 **Link to work:** [Teddy and Tweety](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/teddy-and-tweety/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Teddy%20and%20Sweety.py)
+### Day 21: November 5, 2019
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:**I have check the chekku take medicine or not *
+
+**Link to work:** [Docter's secret](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/doctors-secret/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Docter's%20secret.py)
