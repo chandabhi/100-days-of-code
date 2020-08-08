@@ -9,7 +9,6 @@
 **Link to work:** [Roy and Profile Picture](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Roy%20and%20Profile%20Picture.py)
 
 **Link to work:** [Two Strings](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Roy%20and%20Profile%20Picture.py)
-# 100 Days Of Code - Log
 
 ### Day 2: October 17, 2019
 
@@ -18,7 +17,6 @@
 **Thoughts:** i calculated the maximum number out of three numbers * 
 
 **Link to work:** [Back to school](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/back-to-school-1/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Back%20to%20school.py)
-# 100 Days Of Code - Log
 
 ### Day 3: October 18, 2019
 
@@ -29,7 +27,6 @@
 **Link to work:** [Duration](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Duration.py)
 
 **Link to work:** [Print the Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Print%20the%20Numbers.py)
-# 100 Days Of Code - Log
 
 ### Day 6: October 21, 2019
 
@@ -40,7 +37,6 @@
 **Link to work:** [Prime number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Prime%20number.py)
 
 **Link to work:** [Palindromic string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Palindromic%20string.py)
-# 100 Days Of Code - Log
 
 ### Day 7: October 22, 2019
 
@@ -49,7 +45,6 @@
 **Thoughts:** I find the product of numbers * 
 
 **Link to work:** [Find Product](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Find%20product.py)
-# 100 Days Of Code - Log
 
 ### Day 8: October 23, 2019
 
@@ -58,7 +53,6 @@
 **Thoughts:** I count the divisors between two numbers* 
 
 **Link to work:** [Count divisors](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Count%20Divisors.py)
-# 100 Days Of Code - Log
 
 ### Day 9: October 24, 2019
 
@@ -67,7 +61,6 @@
 **Thoughts:** I find the fatorial of a number* 
 
 **Link to work:** [Factorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Factorial.py)
-# 100 Days Of Code - Log
 
 ### Day 11: October 26, 2019
 
@@ -78,7 +71,6 @@
 **Link to work:** [Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisible.py)
 
 **Link to work:** [Goki and his breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Goki%20and%20his%20breakup.py)
-# 100 Days Of Code - Log
 
 ### Day 13: October 28, 2019
 
@@ -89,7 +81,6 @@
 **Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Ladderophilia.py)
 
 **Link to work:** [Book of potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Book%20of%20potion%20making.py)
-# 100 Days Of Code - Log
 
 ### Day 15: October 30, 2019
 
@@ -98,7 +89,6 @@
 **Thoughts:** I have calculate the sum of weight of charater of string  * 
 
 **Link to work:** [Char sum](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/char%20sum.py)
-# 100 Days Of Code - Log
 
 ### Day 16: October 31, 2019
 
@@ -107,7 +97,6 @@
 **Thoughts:** I have check a number form by last digit of given array element*
 
 **Link to work:** [Divisibility](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Divisibility.py)
-# 100 Days Of Code - Log
 
 ### Day 17: November 1, 2019
 
