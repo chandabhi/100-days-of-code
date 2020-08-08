@@ -138,3 +138,10 @@
 **Thoughts:** I have check the chekku take medicine or not *
 
 **Link to work:** [Docter's secret](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/doctors-secret/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/Hacker%20Earth/Basic%20of%20IO/Docter's%20secret.py)
+### Day 22: 7 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth
+
+**Thoughts:** I have printed number from 70 to 80 without taking input  *
+
+**Link to work:** [jadoo vs koba](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/jaddo%20vs%20koba%20.py)
