@@ -132,4 +132,4 @@
 
 **Thoughts:** I have printed number from 70 to 80 without taking input  *
 
-**Link to work:** [jadoo vs koba](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/) [- solution](https://github.com/Gujjar1998/Competitive-coding/blob/master/jaddo%20vs%20koba%20.py)
+**Link to work:** [jadoo vs koba](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/) [- solution](https://github.com/Gujjar1998/Code/blob/master/jaddo%20vs%20koba%20.py)
