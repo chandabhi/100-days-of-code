@@ -140,7 +140,7 @@
 **Thoughts:** I have printed the 420 without using a number *
 
 **Link to work:** [jadoo hates numbers](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/) [- solution](https://github.com/Gujjar1998/Code/blob/master/jadoo%20hates%20number.py)
-### Day 23: 9 aug, 2020
+### Day 23: 10 aug, 2020
 
 **Today's Progress**: I have continue solving questions on hackerearth and its my birth day today
 
