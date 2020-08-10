@@ -140,3 +140,10 @@
 **Thoughts:** I have printed the 420 without using a number *
 
 **Link to work:** [jadoo hates numbers](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/) [- solution](https://github.com/Gujjar1998/Code/blob/master/jadoo%20hates%20number.py)
+### Day 23: 9 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth and its my birth day today
+
+**Thoughts:** I have solve the question 13 reasons why *
+
+**Link to work:** [13 Reasons Why](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/13%20Reasons%20Why.py)
