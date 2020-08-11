@@ -147,3 +147,10 @@
 **Thoughts:** I have solve the question 13 reasons why *
 
 **Link to work:** [13 Reasons Why](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/13%20Reasons%20Why.py)
+### Day 25: 11 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the replacing compliment of DNA to RNA nucliotides *
+
+**Link to work:** [Jadoo and DNA transcription](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/jadoo%20and%20DNA%20trascription.py)
