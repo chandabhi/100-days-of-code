@@ -32,3 +32,15 @@ continue coding on hackerearth
 continue coding on hackerearth
 ### R1D19
 continue coding on hackerearth
+### R1D20
+continue coding on hackerearth
+### R1D21
+continue coding on hackerearth
+### R1D22
+continue coding on hackerearth
+### R1D23
+continue coding on hackerearth
+### R1D24
+continue coding on hackerearth
+### R1D25
+continue coding on hackerearth
