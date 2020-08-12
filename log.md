@@ -154,3 +154,10 @@
 **Thoughts:** I have solve the replacing compliment of DNA to RNA nucliotides *
 
 **Link to work:** [Jadoo and DNA transcription](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/jadoo%20and%20DNA%20trascription.py)
+### Day 26: 12 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have find the largest number that can be formed by changing digits at atmost K places in the number X. *
+
+**Link to work:** [Digit Problam](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Digitproblam.py)
