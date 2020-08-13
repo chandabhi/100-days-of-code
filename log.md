@@ -161,3 +161,10 @@
 **Thoughts:** I have find the largest number that can be formed by changing digits at atmost K places in the number X. *
 
 **Link to work:** [Digit Problam](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Digitproblam.py)
+### Day 27: 13 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:**i have solve the problam which calculate the tag on truck is valid or not .*
+
+**Link to work:** [Ali and Helping innocent people](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/) [- solution](https://github.com/Gujjar1998/Code/blob/master/ali%20and%20helping%20innocent%20people.py)
