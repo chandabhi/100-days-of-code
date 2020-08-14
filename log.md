@@ -168,3 +168,10 @@
 **Thoughts:**i have solve the problam which calculate the tag on truck is valid or not .*
 
 **Link to work:** [Ali and Helping innocent people](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/) [- solution](https://github.com/Gujjar1998/Code/blob/master/ali%20and%20helping%20innocent%20people.py)
+### Day 28: 14 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:**I have calculate steps*
+
+**Link to work:** [A Movement](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/) [- solution](https://github.com/Gujjar1998/Code/blob/master/A%20Movement.py)
