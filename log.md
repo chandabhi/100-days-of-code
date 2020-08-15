@@ -175,3 +175,10 @@
 **Thoughts:** I have calculate steps *
 
 **Link to work:** [A Movement](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/) [- solution](https://github.com/Gujjar1998/Code/blob/master/A%20Movement.py)
+### Day 29: 15 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve problam of last brick *
+
+**Link to work:** [Bricks Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Bricksgame.py)
