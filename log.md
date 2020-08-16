@@ -182,3 +182,10 @@
 **Thoughts:** I have solve problam of last brick *
 
 **Link to work:** [Bricks Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Bricksgame.py)
+### Day 30: 16 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to check word is similer to the zoo   *
+
+**Link to work:** [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Zoos.py)
