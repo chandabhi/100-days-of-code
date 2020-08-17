@@ -189,3 +189,10 @@
 **Thoughts:** I have solve the problam to check word is similer to the zoo   *
 
 **Link to work:** [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Zoos.py)
+### Day 31: 17 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam of a game*
+
+**Link to work:** [e-maze-in](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/e-maze-in.py)
