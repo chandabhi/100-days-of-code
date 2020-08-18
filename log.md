@@ -196,3 +196,10 @@
 **Thoughts:** I have solve the problam of a game*
 
 **Link to work:** [e-maze-in](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/e-maze-in.py)
+### Day 32: 18 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam of a string replace char upper to lower or vice-vrsa*
+
+**Link to work:** [Toggle string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Togglestring.py)
