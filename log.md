@@ -203,3 +203,10 @@
 **Thoughts:** I have solve the problam of a string replace char upper to lower or vice-vrsa*
 
 **Link to work:** [Toggle string](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Togglestring.py)
+### Day 33: 19 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to calculate the minimum price *
+
+**Link to work:** [Cost of Balloons](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Cost%20of%20baloon.py)
