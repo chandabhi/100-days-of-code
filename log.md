@@ -210,3 +210,10 @@
 **Thoughts:** I have solve the problam to calculate the minimum price *
 
 **Link to work:** [Cost of Balloons](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Cost%20of%20baloon.py)
+### Day 34: 20 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to calculate opposite seat no. and type *
+
+**Link to work:** [Seating arrangement](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/seating%20arrangement.py)
