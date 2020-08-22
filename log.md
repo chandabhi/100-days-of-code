@@ -224,3 +224,10 @@
 **Thoughts:** I have solve the problam to find the index of number which devides by 7 *
 
 **Link to work:**  [IT'S MAGIC!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/its-magic/) [- solution](https://github.com/Gujjar1998/Code/blob/master/It's%20Magic.py)
+### Day 36: 22 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print the number before number 42  *
+
+**Link to work:**  [Life the universe the everything](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Life%20the%20universe%20the%20everything.py)
