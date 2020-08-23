@@ -231,3 +231,10 @@
 **Thoughts:** I have solve the problam to print the number before number 42  *
 
 **Link to work:**  [Life the universe the everything](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Life%20the%20universe%20the%20everything.py)
+### Day 37: 23 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to find how much hackerearth string are formed by given string *
+
+**Link to work:**  [Print hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/) [- solution](https://github.com/Gujjar1998/Code/blob/master/print%20hackerearth.py)
