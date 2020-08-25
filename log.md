@@ -245,3 +245,10 @@
 **Thoughts:** I have solve the problam to find how many girls is playing game *
 
 **Link to work:**  [The Dice](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/) [- solution](https://github.com/Gujjar1998/Code/blob/master/The%20Dice.py)
+### Day 39: 25 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to find six one's or zero's present in string or not  *
+
+**Link to work:**  [The Dice](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/) [- solution](https://github.com/Gujjar1998/Code/blob/master/The%20Dice.py)
