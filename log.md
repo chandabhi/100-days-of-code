@@ -251,4 +251,4 @@
 
 **Thoughts:** I have solve the problam to find six one's or zero's present in string or not  *
 
-**Link to work:**  [The Dice](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/) [- solution](https://github.com/Gujjar1998/Code/blob/master/The%20Dice.py)
+**Link to work:**  [Little jhool and psychic powers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Little%20jhool%20and%20psychic%20power.py)
