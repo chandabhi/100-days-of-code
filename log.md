@@ -252,3 +252,10 @@
 **Thoughts:** I have solve the problam to find six one's or zero's present in string or not  *
 
 **Link to work:**  [Little jhool and psychic powers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Little%20jhool%20and%20psychic%20power.py)
+### Day 40: 27 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to find the length of string  *
+
+**Link to work:**  [Anagram](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/anagram.py)
