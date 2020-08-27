@@ -66,3 +66,12 @@ continue coding on hackerearth
 continue coding on hackerearth
 ### R1D36
 continue coding on hackerearth
+### R1D37
+continue coding on hackerearth
+### R1D38
+continue coding on hackerearth
+### R1D39
+continue coding on hackerearth
+### R1D40
+continue coding on hackerearth
+
