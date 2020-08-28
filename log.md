@@ -259,3 +259,10 @@
 **Thoughts:** I have solve the problam to find the length of string  *
 
 **Link to work:**  [Anagram](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/anagram.py)
+### Day 41: 28 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve problam of arithmetic progression *
+
+**Link to work:**  [Arithmetic progression](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Arithmatic%20progression.py)
