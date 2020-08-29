@@ -266,3 +266,10 @@
 **Thoughts:** I have solve problam of arithmetic progression *
 
 **Link to work:**  [Arithmetic progression](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Arithmatic%20progression.py)
+### Day 42: 29 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve problam of make gift for jack girlfriend *
+
+**Link to work:**  [Friend's Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Friends%20relationship.py)
