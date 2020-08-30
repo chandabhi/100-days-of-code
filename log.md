@@ -273,3 +273,10 @@
 **Thoughts:** I have solve problam of make gift for jack girlfriend *
 
 **Link to work:**  [Friend's Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Friends%20relationship.py)
+### Day 43: 30 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve problam to calclate how much toofee aman collect from instructer *
+
+**Link to work:**  [Aman & Mr.Sharma](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/aman-mrsharma/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Aman%20and%20Mr%20sharma.py)
