@@ -280,3 +280,10 @@
 **Thoughts:** I have solve problam to calclate how much toofee aman collect from instructer *
 
 **Link to work:**  [Aman & Mr.Sharma](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/aman-mrsharma/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Aman%20and%20Mr%20sharma.py)
+### Day 44: 31 aug, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have claculate how much circles are fitting in a rectangle *
+
+**Link to work:**  [Fitting Circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Fitting%20circle.py)
