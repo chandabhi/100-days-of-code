@@ -287,3 +287,10 @@
 **Thoughts:** I have claculate how much circles are fitting in a rectangle *
 
 **Link to work:**  [Fitting Circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Fitting%20circle.py)
+### Day 45: 1 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have claculate maximum number of cloud that produce sound in given range *
+
+**Link to work:**  [Rain Sound](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Rain%20sound.py)
