@@ -294,3 +294,10 @@
 **Thoughts:** I have claculate maximum number of cloud that produce sound in given range *
 
 **Link to work:**  [Rain Sound](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Rain%20sound.py)
+### Day 46: 2 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have found the sum of sequence from given sequence *
+
+**Link to work:**  [The Great Kian](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/) [- solution](https://github.com/Gujjar1998/Code/blob/master/The%20Great%20Kian.py)
