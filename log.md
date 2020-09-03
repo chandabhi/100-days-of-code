@@ -301,3 +301,10 @@
 **Thoughts:** I have found the sum of sequence from given sequence *
 
 **Link to work:**  [The Great Kian](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/) [- solution](https://github.com/Gujjar1998/Code/blob/master/The%20Great%20Kian.py)
+### Day 47: 3 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have found pattern *
+
+**Link to work:**  [Find the Pattern](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-pattern-6/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Find%20the%20Pattern.py)
