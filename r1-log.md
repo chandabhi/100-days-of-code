@@ -86,6 +86,8 @@ continue coding on hackerearth
 continue coding on hackerearth
 ### R1D46
 continue coding on hackerearth
+### R1D47
+continue coding on hackerearth
 
 
 
