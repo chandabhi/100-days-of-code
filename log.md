@@ -308,3 +308,10 @@
 **Thoughts:** I have found pattern *
 
 **Link to work:**  [Find the Pattern](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-pattern-6/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Find%20the%20Pattern.py)
+### Day 48: 4 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print most valueble expression value *
+
+**Link to work:**  [Magical Tree](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magical-tree/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Magical%20tree.py)
