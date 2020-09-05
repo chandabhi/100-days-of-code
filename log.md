@@ -315,3 +315,10 @@
 **Thoughts:** I have solve the problam to print most valueble expression value *
 
 **Link to work:**  [Magical Tree](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magical-tree/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Magical%20tree.py)
+### Day 49: 5 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to check numbers between min and max present in array or not *
+
+**Link to work:**  [Min-Max](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/) [- solution](https://github.com/Gujjar1998/Code/blob/master/MIn-Max.py)
