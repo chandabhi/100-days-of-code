@@ -322,3 +322,10 @@
 **Thoughts:** I have solve the problam to check numbers between min and max present in array or not *
 
 **Link to work:**  [Min-Max](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/) [- solution](https://github.com/Gujjar1998/Code/blob/master/MIn-Max.py)
+### Day 50: 6 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print the sum of array element *
+
+**Link to work:**  [Array Sum](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Array%20sum.py)
