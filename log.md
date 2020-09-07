@@ -329,3 +329,10 @@
 **Thoughts:** I have solve the problam to print the sum of array element *
 
 **Link to work:**  [Array Sum](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Array%20sum.py)
+### Day 51: 7 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print the min number from given number that binary bits has most 1 bits *
+
+**Link to work:**  [Set numbers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/set-numbers-bea74f5a/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Set%20numbers.py)
