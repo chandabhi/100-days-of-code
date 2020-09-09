@@ -343,3 +343,10 @@
 **Thoughts:** I have solve the problam to count how much numbers in input string *
 
 **Link to work:**  [COUNT NUMBERS](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-numbers-46/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Count%20number.py)
+### Day 53: 9 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to of split houses  *
+
+**Link to work:**  [Split houses](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Splithouse.py)
