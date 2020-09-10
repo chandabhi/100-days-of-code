@@ -350,3 +350,10 @@
 **Thoughts:** I have solve the problam to of split houses  *
 
 **Link to work:**  [Split houses](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Splithouse.py)
+### Day 54: 10 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print yes if we can perform given operations on input integer convert into 1  *
+
+**Link to work:**  [Conject-it!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/conject-it/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Conject-it!.py)
