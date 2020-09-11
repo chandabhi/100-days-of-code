@@ -357,3 +357,10 @@
 **Thoughts:** I have solve the problam to print yes if we can perform given operations on input integer convert into 1  *
 
 **Link to work:**  [Conject-it!](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/conject-it/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Conject-it!.py)
+### Day 55: 11 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to print sum of given numbers time complexity  *
+
+**Link to work:**  [A+B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/A%2BB.py)
