@@ -364,3 +364,10 @@
 **Thoughts:** I have solve the problam to print sum of given numbers time complexity  *
 
 **Link to work:**  [A+B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/A%2BB.py)
+### Day 56: 12 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to calculate the length of good substring  *
+
+**Link to work:**  [Onw String No trouble](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/one-string-no-trouble-37037871/) [- solution](https://github.com/Gujjar1998/Code/blob/master/One%20string%20no%20trouble.py)
