@@ -371,3 +371,10 @@
 **Thoughts:** I have solve the problam to calculate the length of good substring  *
 
 **Link to work:**  [Onw String No trouble](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/one-string-no-trouble-37037871/) [- solution](https://github.com/Gujjar1998/Code/blob/master/One%20string%20no%20trouble.py)
+### Day 57: 13 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to tell mr X the packet of chocolate are good or not  *
+
+**Link to work:**  [Birthday Party](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Birthday%20Party.py)
