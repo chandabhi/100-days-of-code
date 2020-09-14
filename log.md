@@ -378,3 +378,10 @@
 **Thoughts:** I have solve the problam to tell mr X the packet of chocolate are good or not  *
 
 **Link to work:**  [Birthday Party](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Birthday%20Party.py)
+### Day 58: 14 sep, 2020
+
+**Today's Progress**: I have continue solving questions on hackerearth 
+
+**Thoughts:** I have solve the problam to find total sum of number of vowels present in substrings of given string  *
+
+**Link to work:**  [Vowel Recoginition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/description/) [- solution](https://github.com/Gujjar1998/Code/blob/master/Vowel%20recoginition.py)
