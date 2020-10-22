@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [October 21, Wednesday, 2020]
 
 ### R1D1 
 Started coding on hackerearth, solved a problem.
+
+### R1D2
+Solved Armstrong Problem
