@@ -8,7 +8,7 @@
 
 **Thoughts:** I solved a Euler Problem* 
 
-**Link to work:** None done by myself
+**Link to work:** Basic question (Done by myself)
 
 
 
@@ -16,6 +16,16 @@
 
 **Today's Progress**: Recalled Armstrong number
 
-**Thoughts:** * 
+**Thoughts:** Equation breaks to understand * 
 
 **Link to work:** Hackerearth question :  
+
+
+
+### Day 3: October 23, 2020
+
+**Today's Progress**: Recalled Fibonacci series
+
+**Thoughts:** Fibonacci series* 
+
+**Link to work:** Basic question (Done by myself)
