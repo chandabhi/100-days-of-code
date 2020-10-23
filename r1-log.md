@@ -10,6 +10,6 @@ Started coding on hackerearth, solved a problem.
 ### R1D2
 Solved Armstrong Problem
 
-### R1D2
+### R1D3
 Solved Fibonacci Series
 
