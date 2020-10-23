@@ -9,3 +9,7 @@ Started coding on hackerearth, solved a problem.
 
 ### R1D2
 Solved Armstrong Problem
+
+### R1D2
+Solved Fibonacci Series
+
