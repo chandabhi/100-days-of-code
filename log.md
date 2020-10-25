@@ -29,3 +29,27 @@
 **Thoughts:** Fibonacci series* 
 
 **Link to work:** Basic question (Done by myself)
+
+
+
+
+### Day 4: October 24, 2020
+
+**Today's Progress**: None
+
+
+
+
+### Day 5: October 25, 2020
+
+**Today's Progress**: Recalled Palindrome
+
+**Thoughts:** Palindrome (Reverse string)* 
+
+**Link to work:** Basic question (Done by myself)
+
+
+
+
+
+
