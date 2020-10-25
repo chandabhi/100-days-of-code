@@ -13,3 +13,9 @@ Solved Armstrong Problem
 ### R1D3
 Solved Fibonacci Series
 
+### R1D4
+None
+
+### R1D5
+Solved Palindrome 
+
