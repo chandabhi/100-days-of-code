@@ -19,3 +19,6 @@ None
 ### R1D5
 Solved Palindrome 
 
+### R1D6
+Solved Ballon Problem Hackerearth
+
