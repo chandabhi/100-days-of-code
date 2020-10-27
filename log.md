@@ -61,5 +61,14 @@
 
 
 
+### Day 7: October 27, 2020
+
+**Today's Progress** Solved Problem in C and Python:
+
+**Thoughts:** Seating Arrangement Problem Hackerearth 
+
+**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/submissions/
+
+
 
 
