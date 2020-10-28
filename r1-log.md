@@ -24,3 +24,6 @@ Solved Ballon Problem Hackerearth
 
 ### R1D7
 Solved Seating Arrangement Problem Hackerearth
+
+### R1D8
+Solved Palindrome Solution Hackerearth
