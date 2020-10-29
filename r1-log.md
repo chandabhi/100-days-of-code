@@ -27,3 +27,7 @@ Solved Seating Arrangement Problem Hackerearth
 
 ### R1D8
 Solved Palindrome Solution Hackerearth
+
+
+### R1D9
+Solved House Problem Hackerearth
