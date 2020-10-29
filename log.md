@@ -83,3 +83,11 @@
 
 
 
+### Day 9: October 29, 2020
+
+**Today's Progress** Revised Regular Expression:
+
+**Thoughts:** House Problem Hackerearth 
+
+**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/submissions/
+
