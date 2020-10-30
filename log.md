@@ -91,3 +91,17 @@
 
 **Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/submissions/
 
+
+
+### Day 10: October 30, 2020
+
+**Today's Progress** Input list using Map:
+
+**Thoughts:** Divisible Problem Hackerearth 
+
+**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/submissions/
+
+
+
+
+
