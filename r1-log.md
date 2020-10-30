@@ -31,3 +31,7 @@ Solved Palindrome Solution Hackerearth
 
 ### R1D9
 Solved House Problem Hackerearth
+
+
+### R1D10
+Solved Divisible Problem
