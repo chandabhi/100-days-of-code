@@ -105,3 +105,14 @@
 
 
 
+### Day 11: October 31, 2020
+
+**Today's Progress** String used:
+
+**Thoughts:** Anagram Problem Hackerearth 
+
+**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/submissions/
+
+
+
+
