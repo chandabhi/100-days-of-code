@@ -35,3 +35,7 @@ Solved House Problem Hackerearth
 
 ### R1D10
 Solved Divisible Problem
+
+
+### R1D11
+Solved Anagrams Problem
