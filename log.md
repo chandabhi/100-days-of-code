@@ -116,3 +116,13 @@
 
 
 
+### Day 12: October 31, 2020
+
+**Today's Progress** List used:
+
+**Thoughts:** input of list and sort of list revised
+
+**Link to work:** (basic Question) Self done
+
+
+
