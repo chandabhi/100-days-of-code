@@ -116,7 +116,7 @@
 
 
 
-### Day 12: October 31, 2020
+### Day 12: November 1, 2020
 
 **Today's Progress** List used:
 
@@ -124,5 +124,15 @@
 
 **Link to work:** (basic Question) Self done
 
+
+
+
+### Day 13: November 2, 2020
+
+**Today's Progress** Two strings
+
+**Thoughts:** Old question can help also one topic can coincide with other
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/submissions/
 
 
