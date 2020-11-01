@@ -39,3 +39,8 @@ Solved Divisible Problem
 
 ### R1D11
 Solved Anagrams Problem
+
+
+
+### R1D12
+Solved element deserving problem
