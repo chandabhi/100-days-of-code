@@ -136,3 +136,12 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/submissions/
 
 
+
+### Day 14: November 3, 2020
+
+**Today's Progress** Question-Answer Problem
+
+**Thoughts:** Complex loops
+
+**Link to work:** (basic Question) Self done
+
