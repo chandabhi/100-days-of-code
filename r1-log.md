@@ -47,3 +47,8 @@ Solved element deserving problem
 
 ### R1D13
 Solved Two strings problem
+
+
+### R1D14
+Tried to Solve Play with numbers problem
+
