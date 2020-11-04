@@ -145,3 +145,12 @@
 
 **Link to work:** (basic Question) Self done
 
+
+### Day 15: November 4, 2020
+
+**Today's Progress** Play with numbers
+
+**Thoughts:** Complex question(Input Output) :[Time complexity still a problem]
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/
+
