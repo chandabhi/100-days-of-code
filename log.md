@@ -154,3 +154,13 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/
 
+
+
+### Day 16: November 5, 2020
+
+**Today's Progress** Merge Sort
+
+**Thoughts:** Best sorting technique
+
+**Link to work:** Coursera question(Jupyter Notebook)
+
