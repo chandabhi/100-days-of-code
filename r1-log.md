@@ -55,3 +55,7 @@ Tried to Solve Play with numbers problem
 
 ### R1D15
 Merge Sort recalled
+
+
+### R1D16
+Ali and Helping innocent people
