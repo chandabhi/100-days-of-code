@@ -164,3 +164,13 @@
 
 **Link to work:** Coursera question(Jupyter Notebook)
 
+
+
+### Day 17: November 6, 2020
+
+**Today's Progress** Ali Helping people hackerearth problem
+
+**Thoughts:** try and except use
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/submissions/
+
