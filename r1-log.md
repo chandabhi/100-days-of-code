@@ -50,16 +50,20 @@ Solved Two strings problem
 
 
 ### R1D14
-Tried to Solve Play with numbers problem
+Question Answer Problem
 
 
 ### R1D15
-Merge Sort recalled
+Tried to Solve Play with numbers problem
 
 
 ### R1D16
-Ali and Helping innocent people
+Merge Sort recalled
 
 
 ### R1D17
+Ali and Helping innocent people
+
+
+### R1D18
 Database 
