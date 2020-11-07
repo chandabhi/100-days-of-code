@@ -174,3 +174,11 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/submissions/
 
+
+### Day 18: November 7, 2020
+
+**Today's Progress**Database problem
+
+**Thoughts:** try and except use(Complex)
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/database-0c7cce47/submissions/
