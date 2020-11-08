@@ -182,3 +182,13 @@
 **Thoughts:** try and except use(Complex)
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/database-0c7cce47/submissions/
+
+
+
+### Day 19: November 8, 2020
+
+**Today's Progress**Arithmetic Progression problem
+
+**Thoughts:** Conditions can be made easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/submissions/
