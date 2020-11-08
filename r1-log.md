@@ -71,3 +71,6 @@ Database
 
 ### R1D19
 Arithmetic Progression
+
+### R1D20
+Minimum Steps problem
