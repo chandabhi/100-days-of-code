@@ -192,3 +192,18 @@
 **Thoughts:** Conditions can be made easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/submissions/
+
+
+
+
+
+
+### Day 20: November 9, 2020
+
+**Today's Progress**Minimum Steps problem
+
+**Thoughts:** Recursion used and revised
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/step-conversion/submissions/
+
+
