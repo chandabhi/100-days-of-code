@@ -150,7 +150,7 @@
 
 **Today's Progress** Play with numbers
 
-**Thoughts:** Complex question(Input Output) :[Time complexity still a problem]
+**Thoughts:** Complex question(Input Output)  Use calculation as you take the input
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/
 
