@@ -67,3 +67,7 @@ Ali and Helping innocent people
 
 ### R1D18
 Database 
+
+
+### R1D19
+Arithmetic Progression
