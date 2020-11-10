@@ -74,3 +74,6 @@ Arithmetic Progression
 
 ### R1D20
 Minimum Steps problem
+
+### R1D21
+Maximum Border
