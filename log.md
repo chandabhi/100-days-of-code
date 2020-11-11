@@ -215,3 +215,11 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/submissions/
 
+
+### Day 21: November 10, 2020
+
+**Today's Progress**Best Index
+
+**Thoughts:** way of taking string (cool stuff)
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/best-index-1-45a2f8ff/submissions/
