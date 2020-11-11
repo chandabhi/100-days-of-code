@@ -216,7 +216,7 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/submissions/
 
 
-### Day 21: November 10, 2020
+### Day 22: November 11, 2020
 
 **Today's Progress**Best Index
 
