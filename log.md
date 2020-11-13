@@ -223,3 +223,21 @@
 **Thoughts:** way of taking string (cool stuff)
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/best-index-1-45a2f8ff/submissions/
+
+
+### Day 23: November 12, 2020
+
+**Today's Progress**None
+
+**Thoughts:** None
+
+**Link to work:** 
+
+
+### Day 24: November 13, 2020
+
+**Today's Progress**Magical Word
+
+**Thoughts:** Complex
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/
