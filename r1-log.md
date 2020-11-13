@@ -77,3 +77,9 @@ Minimum Steps problem
 
 ### R1D21
 Maximum Border
+
+### R1D22
+None
+
+### R1D23
+Magical Word
