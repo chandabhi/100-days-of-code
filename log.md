@@ -241,3 +241,12 @@
 **Thoughts:** Complex
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/
+
+
+### Day 25: November 14, 2020
+
+**Today's Progress** Split Houses
+
+**Thoughts:** Easy one
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
