@@ -245,8 +245,8 @@
 
 ### Day 25: November 14, 2020
 
-**Today's Progress** Split Houses
+**Today's Progress** Birthday Party
 
 **Thoughts:** Easy one
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/
