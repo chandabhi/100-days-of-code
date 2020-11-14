@@ -83,3 +83,6 @@ None
 
 ### R1D23
 Magical Word
+
+### R1D24
+Birthday Party
