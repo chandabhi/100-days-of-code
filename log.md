@@ -250,3 +250,12 @@
 **Thoughts:** Easy one
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/
+
+
+### Day 25: November 15, 2020
+
+**Today's Progress** Digit Problem
+
+**Thoughts:** Easy one
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/submissions/
