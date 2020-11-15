@@ -86,3 +86,6 @@ Magical Word
 
 ### R1D24
 Birthday Party
+
+### R1D25
+Digit Problem
