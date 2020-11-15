@@ -252,7 +252,7 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/
 
 
-### Day 25: November 15, 2020
+### Day 26: November 15, 2020
 
 **Today's Progress** Digit Problem
 
