@@ -259,3 +259,12 @@
 **Thoughts:** Easy one
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/submissions/
+
+
+### Day 27: November 16, 2020
+
+**Today's Progress** Rain Problem
+
+**Thoughts:** Easy one
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/
