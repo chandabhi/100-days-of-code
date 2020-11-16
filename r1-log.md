@@ -89,3 +89,6 @@ Birthday Party
 
 ### R1D25
 Digit Problem
+
+### R1D26
+Rain Problem
