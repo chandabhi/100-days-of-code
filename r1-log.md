@@ -92,3 +92,6 @@ Digit Problem
 
 ### R1D26
 Rain Problem
+
+### R1D27
+Trailing Zeroes in Factorial
