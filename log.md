@@ -268,3 +268,12 @@
 **Thoughts:** Easy one
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/
+
+
+### Day 28: November 17, 2020
+
+**Today's Progress** Trailing Zeroes in Factorial
+
+**Thoughts:** Good Question (Complex)
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/submissions/
