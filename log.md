@@ -277,3 +277,13 @@
 **Thoughts:** Good Question (Complex)
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/submissions/
+
+
+
+### Day 29: November 18, 2020
+
+**Today's Progress** City Problem
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/
