@@ -95,3 +95,7 @@ Rain Problem
 
 ### R1D27
 Trailing Zeroes in Factorial
+
+
+### R1D28
+City Problem
