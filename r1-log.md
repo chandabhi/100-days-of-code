@@ -99,3 +99,6 @@ Trailing Zeroes in Factorial
 
 ### R1D28
 City Problem
+
+### R1D29
+Yet another partition problem
