@@ -287,3 +287,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/
+
+
+### Day 30: November 19, 2020
+
+**Today's Progress** Yet another partition problem 
+
+**Thoughts:** Bitwise use 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/description/
