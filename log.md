@@ -296,3 +296,12 @@
 **Thoughts:** Bitwise use 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/description/
+
+
+### Day 31: November 20, 2020
+
+**Today's Progress**  Least common multiple
+
+**Thoughts:** easy
+
+**Link to work:** Coursera Question:(https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission)
