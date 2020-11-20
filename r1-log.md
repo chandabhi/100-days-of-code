@@ -102,3 +102,6 @@ City Problem
 
 ### R1D29
 Yet another partition problem
+
+### R1D30
+Least Common Multiple
