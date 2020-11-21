@@ -305,3 +305,12 @@
 **Thoughts:** easy
 
 **Link to work:** Coursera Question:(https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission)
+
+
+### Day 32: November 21, 2020
+
+**Today's Progress**  Min-Max Problem
+
+**Thoughts:** easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/submissions/
