@@ -105,3 +105,6 @@ Yet another partition problem
 
 ### R1D30
 Least Common Multiple
+
+### R1D31
+Min-Max Problem
