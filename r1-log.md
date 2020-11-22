@@ -108,3 +108,6 @@ Least Common Multiple
 
 ### R1D31
 Min-Max Problem
+
+### R1D32
+Flip the door
