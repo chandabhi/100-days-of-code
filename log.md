@@ -314,3 +314,13 @@
 **Thoughts:** easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/submissions/
+
+
+
+### Day 33: November 22, 2020
+
+**Today's Progress**  Flip The door Problem
+
+**Thoughts:** Need's Imporvement
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/flip-the-door-5/submissions/
