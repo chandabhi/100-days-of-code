@@ -111,3 +111,6 @@ Min-Max Problem
 
 ### R1D32
 Flip the door
+
+### R1D33
+Set Numbers
