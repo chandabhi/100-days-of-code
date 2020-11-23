@@ -324,3 +324,13 @@
 **Thoughts:** Need's Imporvement
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/flip-the-door-5/submissions/
+
+
+
+### Day 34: November 23, 2020
+
+**Today's Progress**  Set Numbers
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/set-numbers-bea74f5a/submissions/
