@@ -343,3 +343,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/
+
+
+### Day 36: November 25, 2020
+
+**Today's Progress** Optparse used
+
+**Thoughts:** Easy
+
+**Link to work:** Self 
