@@ -352,3 +352,12 @@
 **Thoughts:** Easy
 
 **Link to work:** Self 
+
+
+### Day 36: November 25, 2020
+
+**Today's Progress** Subprocess used
+
+**Thoughts:** Easy
+
+**Link to work:** Self 
