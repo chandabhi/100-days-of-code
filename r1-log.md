@@ -126,3 +126,6 @@ Subprocess used
 
 ### R1D37
 Fibonacci last digit
+
+### R1D38
+Distribute chocolates
