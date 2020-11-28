@@ -371,3 +371,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+
+
+### Day 38: November 27, 2020
+
+**Today's Progress** Distribute chocolates
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/submissions/
