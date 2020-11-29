@@ -380,3 +380,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/submissions/
+
+
+### Day 39: November 29, 2020
+
+**Today's Progress** Find Product
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/
