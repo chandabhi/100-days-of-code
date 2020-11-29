@@ -354,7 +354,7 @@
 **Link to work:** Self 
 
 
-### Day 36: November 25, 2020
+### Day 36: November 26, 2020
 
 **Today's Progress** Subprocess used
 
@@ -364,7 +364,7 @@
 
 
 
-### Day 37: November 26, 2020
+### Day 37: November 27, 2020
 
 **Today's Progress** Fibonacci last digit
 
@@ -373,7 +373,7 @@
 **Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
 
 
-### Day 38: November 27, 2020
+### Day 38: November 28, 2020
 
 **Today's Progress** Distribute chocolates
 
