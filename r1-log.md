@@ -129,3 +129,6 @@ Fibonacci last digit
 
 ### R1D38
 Distribute chocolates
+
+### R1D39
+Find Product
