@@ -135,3 +135,6 @@ Find Product
 
 ### R1D40
 Mission - Baby
+
+### R1D41
+Rubik's Square
