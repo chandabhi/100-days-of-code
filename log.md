@@ -400,3 +400,12 @@
 **Thoughts:** good question
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/baby-ko-base-pasand-h/submissions/
+
+
+### Day 41: December 1, 2020
+
+**Today's Progress** Rubik's Square 
+
+**Thoughts:** good question
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rubiks-square-2/description/
