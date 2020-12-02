@@ -409,3 +409,14 @@
 **Thoughts:** good question
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rubiks-square-2/description/
+
+
+
+
+### Day 42: December 2, 2020
+
+**Today's Progress** Join used here 
+
+**Thoughts:** basic how to use join function
+
+**Link to work:** coursera question (PY4E)
