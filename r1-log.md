@@ -138,3 +138,6 @@ Mission - Baby
 
 ### R1D41
 Rubik's Square
+
+### R1D42
+Join used here
