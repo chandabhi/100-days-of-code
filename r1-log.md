@@ -141,3 +141,6 @@ Rubik's Square
 
 ### R1D42
 Join used here
+
+### R1D43
+Prime number using bitwise
