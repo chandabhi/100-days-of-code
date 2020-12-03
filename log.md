@@ -420,3 +420,12 @@
 **Thoughts:** basic how to use join function
 
 **Link to work:** coursera question (PY4E)
+
+
+### Day 43: December 3, 2020
+
+**Today's Progress** Prime Number using bitwise 
+
+**Thoughts:** really god
+
+**Link to work:** Self
