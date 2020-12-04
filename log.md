@@ -429,3 +429,14 @@
 **Thoughts:** really god
 
 **Link to work:** Self
+
+
+### Day 44: December 4, 2020
+
+**Today's Progress** City Group
+
+**Thoughts:** basic implementation
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/
+
+
