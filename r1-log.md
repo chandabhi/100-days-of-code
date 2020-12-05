@@ -147,3 +147,6 @@ Prime number using bitwise
 
 ### R1D44
 City Group
+
+### R1D45
+Insertion sort
