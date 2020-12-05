@@ -440,3 +440,10 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/
 
 
+### Day 45: December 5, 2020
+
+**Today's Progress** Insertion Sort
+
+**Thoughts:** basic implementation
+
+**Link to work:** Self
