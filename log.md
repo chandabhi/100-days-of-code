@@ -447,3 +447,12 @@
 **Thoughts:** basic implementation
 
 **Link to work:** Self
+
+
+### Day 46: December 6, 2020
+
+**Today's Progress** Case Sensitive
+
+**Thoughts:** basic implementation
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/submissions/
