@@ -451,7 +451,7 @@
 
 ### Day 46: December 6, 2020
 
-**Today's Progress** Case Sensitive
+**Today's Progress** Case conversion
 
 **Thoughts:** basic implementation
 
