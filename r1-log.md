@@ -152,5 +152,5 @@ City Group
 Insertion sort
 
 ### R1D46
-Case Sensitive
+Case Conversion
 
