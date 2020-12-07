@@ -154,3 +154,6 @@ Insertion sort
 ### R1D46
 Case Conversion
 
+### R1D47
+Regular Expression Example
+
