@@ -456,3 +456,13 @@
 **Thoughts:** basic implementation
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/submissions/
+
+
+
+### Day 47: December 7, 2020
+
+**Today's Progress** Regular expression example
+
+**Thoughts:** basic implementation (can't run so easily)
+
+**Link to work:** self
