@@ -463,6 +463,16 @@
 
 **Today's Progress** Regular expression example
 
-**Thoughts:** basic implementation (can't run so easily)
+**Thoughts:** basic implementation (fopen used to try to make file available before using code)
 
 **Link to work:** self
+
+
+### Day 48: December 8, 2020
+
+**Today's Progress** Jadoo and DNA transcription
+
+**Thoughts:** basic implementation
+
+**Link to work:** https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/
+
