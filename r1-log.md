@@ -157,3 +157,5 @@ Case Conversion
 ### R1D47
 Regular Expression Example
 
+### R1D48
+Jadoo and DNA Transcription
