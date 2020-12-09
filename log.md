@@ -476,3 +476,14 @@
 
 **Link to work:** https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/
 
+
+
+
+### Day 47: December 9, 2020
+
+**Today's Progress** Book shelf
+
+**Thoughts:** basic implementation OOP
+
+**Link to work:** self
+
