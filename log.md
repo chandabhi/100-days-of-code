@@ -487,3 +487,12 @@
 
 **Link to work:** self
 
+
+### Day 50: December 10, 2020
+
+**Today's Progress** IT'S MAGIC
+
+**Thoughts:** basic implementation
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/its-magic/
+
