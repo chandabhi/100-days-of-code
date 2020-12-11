@@ -496,3 +496,13 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/its-magic/
 
+
+
+### Day 51: December 11, 2020
+
+**Today's Progress** War
+
+**Thoughts:** imp to unserstand question even when it's easy one
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/submissions/
+
