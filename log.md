@@ -506,3 +506,11 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/submissions/
 
+
+### Day 52: December 12, 2020
+
+**Today's Progress** Final Destination
+
+**Thoughts:** basic
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/final-destination-cakewalk/description/
