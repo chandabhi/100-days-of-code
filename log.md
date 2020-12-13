@@ -514,3 +514,13 @@
 **Thoughts:** basic
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/final-destination-cakewalk/description/
+
+
+
+### Day 52: December 13, 2020
+
+**Today's Progress** Tic-tac-toe
+
+**Thoughts:** basic implementation
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/submissions/
