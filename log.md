@@ -524,3 +524,22 @@
 **Thoughts:** basic implementation
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/submissions/
+
+
+
+### Day 54: December 14, 2020
+
+**Today's Progress** None
+
+**Thoughts:** None
+
+
+### Day 55: December 15, 2020
+
+**Today's Progress** The savior? [3]
+
+**Thoughts:** brute method but enjoyed 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/submissions/
+
+
