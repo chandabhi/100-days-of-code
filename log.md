@@ -543,3 +543,10 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/submissions/
 
 
+### Day 56: December 16, 2020
+
+**Today's Progress** Countries Grouping
+
+**Thoughts:** Easy 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/submissions/
