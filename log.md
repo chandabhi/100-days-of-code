@@ -559,3 +559,13 @@
 **Thoughts:** taught me that how to get char from ascii
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/submissions/
+
+
+
+### Day 58: December 18, 2020
+
+**Today's Progress** Arania Exumai Blast !!
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/reflection-is-every-thing-2fff0566/
