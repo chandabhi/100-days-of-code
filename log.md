@@ -569,3 +569,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/reflection-is-every-thing-2fff0566/
+
+
+### Day 59: December 19, 2020
+
+**Today's Progress** Shreya and Non-Palindrome
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/submissions/
