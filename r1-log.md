@@ -189,3 +189,6 @@ Greatest String
 
 ### R1D58
 Arania Exumai Blast !!
+
+### R1D59
+Shreya and Non-Palindrome
