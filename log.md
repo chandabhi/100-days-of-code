@@ -578,3 +578,13 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/submissions/
+
+
+
+### Day 60: December 20, 2020
+
+**Today's Progress** Swapping Positions
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/submission/51411274/
