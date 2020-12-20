@@ -192,3 +192,6 @@ Arania Exumai Blast !!
 
 ### R1D59
 Shreya and Non-Palindrome
+
+### R1D60
+Swapping Positions
