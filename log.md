@@ -588,3 +588,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/submission/51411274/
+
+
+### Day 61: December 21, 2020
+
+**Today's Progress** GCD (Greatest common Divisible)  HCF
+
+**Thoughts:** Important even when easy
+
+**Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
