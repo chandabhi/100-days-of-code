@@ -195,3 +195,6 @@ Shreya and Non-Palindrome
 
 ### R1D60
 Swapping Positions
+
+### R1D61
+GCD
