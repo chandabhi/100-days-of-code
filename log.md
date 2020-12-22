@@ -597,3 +597,12 @@
 **Thoughts:** Important even when easy
 
 **Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+
+
+### Day 62: December 22, 2020
+
+**Today's Progress** Total Cost
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/
