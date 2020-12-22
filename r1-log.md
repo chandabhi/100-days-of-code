@@ -198,3 +198,6 @@ Swapping Positions
 
 ### R1D61
 GCD
+
+### R1D62
+Total Cost
