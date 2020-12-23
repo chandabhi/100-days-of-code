@@ -606,3 +606,13 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/
+
+
+
+### Day 63: December 23, 2020
+
+**Today's Progress** Yet another partition problem
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/
