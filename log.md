@@ -613,6 +613,6 @@
 
 **Today's Progress** Yet another partition problem
 
-**Thoughts:** Easy
+**Thoughts:** use of xor
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/
