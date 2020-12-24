@@ -616,3 +616,12 @@
 **Thoughts:** use of xor
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/
+
+
+### Day 64: December 24, 2020
+
+**Today's Progress** Player of next match
+
+**Thoughts:** use of and operator
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/ankits-no-ed95054d/
