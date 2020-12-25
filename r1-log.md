@@ -208,3 +208,7 @@ Yet another partition problem
 
 ### R1D64
 Player of next match
+
+
+### R1D65
+Ways to Print Dictionaries
