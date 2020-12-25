@@ -625,3 +625,12 @@
 **Thoughts:** use of and operator
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/ankits-no-ed95054d/
+
+
+### Day 65: December 25, 2020
+
+**Today's Progress** Ways of printing Dictionaries
+
+**Thoughts:** use of pprint anf fprint
+
+**Link to work:** Chuck course
