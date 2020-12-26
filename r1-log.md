@@ -212,3 +212,6 @@ Player of next match
 
 ### R1D65
 Ways to Print Dictionaries
+
+### R1D66
+Conditional Operator
