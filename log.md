@@ -634,3 +634,12 @@
 **Thoughts:** use of pprint anf fprint
 
 **Link to work:** Chuck course
+
+
+### Day 65: December 25, 2020
+
+**Today's Progress** Conditonal operator
+
+**Thoughts:** taking input while running a condition
+
+**Link to work:** Chuck course
