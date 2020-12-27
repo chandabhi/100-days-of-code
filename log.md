@@ -636,10 +636,19 @@
 **Link to work:** Chuck course
 
 
-### Day 65: December 25, 2020
+### Day 65: December 26, 2020
 
 **Today's Progress** Conditonal operator
 
 **Thoughts:** taking input while running a condition
+
+**Link to work:** Chuck course
+
+
+### Day 66: December 27, 2020
+
+**Today's Progress** Tabular Method of printing dictionary
+
+**Thoughts:** Easy and Nice way of printing dictionary
 
 **Link to work:** Chuck course
