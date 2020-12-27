@@ -636,7 +636,7 @@
 **Link to work:** Chuck course
 
 
-### Day 65: December 26, 2020
+### Day 66: December 26, 2020
 
 **Today's Progress** Conditonal operator
 
@@ -645,7 +645,7 @@
 **Link to work:** Chuck course
 
 
-### Day 66: December 27, 2020
+### Day 67: December 27, 2020
 
 **Today's Progress** Tabular Method of printing dictionary
 
