@@ -215,3 +215,6 @@ Ways to Print Dictionaries
 
 ### R1D66
 Conditional Operator
+
+### R1D67
+Tabular Method for printing Dictionary
