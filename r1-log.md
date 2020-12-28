@@ -218,3 +218,6 @@ Conditional Operator
 
 ### R1D67
 Tabular Method for printing Dictionary
+
+### R1D68
+Fibonacci method(fast)
