@@ -652,3 +652,13 @@
 **Thoughts:** Easy and Nice way of printing dictionary
 
 **Link to work:** Chuck course
+
+
+### Day 68: December 28, 2020
+
+**Today's Progress** Fibonacci series fast
+
+**Thoughts:** Important even when easy
+
+**Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+
