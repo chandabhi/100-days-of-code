@@ -662,3 +662,12 @@
 
 **Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
 
+
+### Day 69: December 29, 2020
+
+**Today's Progress** Enumerate
+
+**Thoughts:** Important even when looks too easy
+
+**Link to work:** Self
+
