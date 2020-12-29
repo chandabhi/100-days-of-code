@@ -221,3 +221,6 @@ Tabular Method for printing Dictionary
 
 ### R1D68
 Fibonacci method(fast)
+
+### R1D69
+Enumerate
