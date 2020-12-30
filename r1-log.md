@@ -224,3 +224,6 @@ Fibonacci method(fast)
 
 ### R1D69
 Enumerate
+
+### R1D70
+Goki and his breakup
