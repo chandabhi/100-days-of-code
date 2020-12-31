@@ -227,3 +227,6 @@ Enumerate
 
 ### R1D70
 Goki and his breakup
+
+### R1D71
+Jump Out
