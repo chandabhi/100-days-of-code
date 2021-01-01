@@ -230,3 +230,6 @@ Goki and his breakup
 
 ### R1D71
 Jump Out
+
+### R1D72
+Easy Multiples
