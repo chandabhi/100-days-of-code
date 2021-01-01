@@ -690,3 +690,11 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/submissions/
 
+
+### Day 72: January 1,2021
+
+**Today's Progress** Easy Multiples
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiple/
