@@ -233,3 +233,6 @@ Jump Out
 
 ### R1D72
 Easy Multiples
+
+### R1D73
+Mathematically beautiful numbers
