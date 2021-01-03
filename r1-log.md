@@ -236,3 +236,6 @@ Easy Multiples
 
 ### R1D73
 Mathematically beautiful numbers
+
+### R1D74
+Good String
