@@ -239,3 +239,6 @@ Mathematically beautiful numbers
 
 ### R1D74
 Good String
+
+### R1D75
+Palindromic Ciphers
