@@ -242,3 +242,6 @@ Good String
 
 ### R1D75
 Palindromic Ciphers
+
+### R1D76
+Batman and Tick-tack-toe
