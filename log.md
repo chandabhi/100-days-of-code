@@ -727,10 +727,20 @@
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-ciphers/submissions/
 
 
-### Day 75: January 5,2021
+### Day 76: January 5,2021
 
 **Today's Progress** Batman and Tick-tack-toe
 
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/submissions/
+
+
+
+### Day 77: January 6,2021
+
+**Today's Progress** Sherlock and Date
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-date/submissions/
