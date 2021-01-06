@@ -245,3 +245,6 @@ Palindromic Ciphers
 
 ### R1D76
 Batman and Tick-tack-toe
+
+### R1D77
+Sherlock and Date
