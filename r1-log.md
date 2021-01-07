@@ -248,3 +248,6 @@ Batman and Tick-tack-toe
 
 ### R1D77
 Sherlock and Date
+
+### R1D78
+Little Jhool and his breakup
