@@ -753,3 +753,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-jhool-and-his-breakup/submissions/
+
+
+### Day 79: January 8,2021
+
+**Today's Progress** Prateek and his friends
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prateek-and-his-friends/submissions/
