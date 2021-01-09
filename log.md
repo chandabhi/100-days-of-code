@@ -762,3 +762,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prateek-and-his-friends/submissions/
+
+
+### Day 80: January 9,2021
+
+**Today's Progress** Basic OOP
+
+**Thoughts:** Easy
+
+**Link to work:** Udecity course
