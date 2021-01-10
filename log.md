@@ -771,3 +771,12 @@
 **Thoughts:** Easy
 
 **Link to work:** Udecity course
+
+
+### Day 81: January 10,2021
+
+**Today's Progress** Lines 70
+
+**Thoughts:** File open question 
+
+**Link to work:** Self
