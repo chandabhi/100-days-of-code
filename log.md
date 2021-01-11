@@ -780,3 +780,12 @@
 **Thoughts:** File open question 
 
 **Link to work:** Self
+
+
+### Day 82: January 11,2021
+
+**Today's Progress** Ok Google, play despacito
+
+**Thoughts:** Easy using ceil values 
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/play-despacito/submissions/
