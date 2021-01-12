@@ -789,3 +789,12 @@
 **Thoughts:** Easy using ceil values 
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/play-despacito/submissions/
+
+
+### Day 83: January 12,2021
+
+**Today's Progress** Holi And Colorful houses
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/submissions/
