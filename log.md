@@ -798,3 +798,12 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/submissions/
+
+
+### Day 84: January 13,2021
+
+**Today's Progress** Sorted Arrays
+
+**Thoughts:** Easy
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-sorted-array-ae92a57f/submissions/
