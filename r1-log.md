@@ -272,3 +272,6 @@ Sorted Arrays
 
 ### R1D85
 The Dawn
+
+### R1D86
+Using Format print method
