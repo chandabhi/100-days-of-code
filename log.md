@@ -816,3 +816,13 @@
 **Thoughts:** Easy
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/title-abhi-socha-nahi/submissions/
+
+
+
+### Day 86: January 15,2021
+
+**Today's Progress** Using Format print method
+
+**Thoughts:** Easy
+
+**Link to work:** Self
