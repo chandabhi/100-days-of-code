@@ -826,3 +826,14 @@
 **Thoughts:** Easy
 
 **Link to work:** Self
+
+
+
+### Day 85: January 14,2021
+
+**Today's Progress** The art of verification
+
+**Thoughts:** Good question
+
+**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-art-of-verification/submissions/
+
