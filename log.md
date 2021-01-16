@@ -829,7 +829,7 @@
 
 
 
-### Day 85: January 14,2021
+### Day 87: January 16,2021
 
 **Today's Progress** The art of verification
 
