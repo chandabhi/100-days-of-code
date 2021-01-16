@@ -275,3 +275,6 @@ The Dawn
 
 ### R1D86
 Using Format print method
+
+### R1D87
+The art of verification
