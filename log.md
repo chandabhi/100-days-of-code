@@ -837,3 +837,11 @@
 
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-art-of-verification/submissions/
 
+
+### Day 88: January 17,2021
+
+**Today's Progress** Parsing (py4e)
+
+**Thoughts:** Good question
+
+**Link to work:** Py4e
