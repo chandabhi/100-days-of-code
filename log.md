@@ -845,3 +845,12 @@
 **Thoughts:** Good question
 
 **Link to work:** Py4e
+
+
+### Day 89: January 18,2021
+
+**Today's Progress** Singly Linked List
+
+**Thoughts:** Basic of Data Structure
+
+**Link to work:** https://classroom.udacity.com/courses/ud513/lessons/7117335401/concepts/78875247320923
