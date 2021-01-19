@@ -8,7 +8,7 @@
 
 **Thoughts:** I solved a Euler Problem* 
 
-**Link to work:** Basic question (Done by myself)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/code1.py
 
 
 
@@ -18,7 +18,7 @@
 
 **Thoughts:** Equation breaks to understand * 
 
-**Link to work:** Hackerearth question :  
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/code2.py
 
 
 
@@ -28,7 +28,7 @@
 
 **Thoughts:** Fibonacci series* 
 
-**Link to work:** Basic question (Done by myself)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/code3.py
 
 
 
@@ -46,7 +46,7 @@
 
 **Thoughts:** Palindrome (Reverse string)* 
 
-**Link to work:** Basic question (Done by myself)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/code4.py
 
 
 
@@ -57,7 +57,7 @@
 
 **Thoughts:** Ballon Problem Hackerearth 
 
-**Link to work:** (easy Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code5.py
 
 
 
@@ -67,7 +67,7 @@
 
 **Thoughts:** Seating Arrangement Problem Hackerearth 
 
-**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/code6.py
 
 
 
@@ -78,8 +78,7 @@
 
 **Thoughts:** Palindrome Problem Hackerearth 
 
-**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/submissions/
-
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code7.py
 
 
 
@@ -89,7 +88,7 @@
 
 **Thoughts:** House Problem Hackerearth 
 
-**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code8.py 
 
 
 
@@ -99,7 +98,7 @@
 
 **Thoughts:** Divisible Problem Hackerearth 
 
-**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code9.py
 
 
 
@@ -111,7 +110,7 @@
 
 **Thoughts:** Anagram Problem Hackerearth 
 
-**Link to work:** (basic Question) link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code10.py
 
 
 
@@ -122,7 +121,7 @@
 
 **Thoughts:** input of list and sort of list revised
 
-**Link to work:** (basic Question) Self done
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code11.py
 
 
 
@@ -133,7 +132,7 @@
 
 **Thoughts:** Old question can help also one topic can coincide with other
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code12.py
 
 
 
@@ -143,7 +142,7 @@
 
 **Thoughts:** Complex loops
 
-**Link to work:** (basic Question) Self done
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code13.py
 
 
 ### Day 15: November 4, 2020
@@ -152,7 +151,7 @@
 
 **Thoughts:** Complex question(Input Output)  Use calculation as you take the input
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code14.py
 
 
 
@@ -162,7 +161,7 @@
 
 **Thoughts:** Best sorting technique
 
-**Link to work:** Coursera question(Jupyter Notebook)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code15.py
 
 
 
@@ -172,7 +171,7 @@
 
 **Thoughts:** try and except use
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code16.py
 
 
 ### Day 18: November 7, 2020
@@ -181,7 +180,7 @@
 
 **Thoughts:** try and except use(Complex)
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/database-0c7cce47/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code17.py
 
 
 
@@ -191,7 +190,7 @@
 
 **Thoughts:** Conditions can be made easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code18.py
 
 
 
@@ -204,7 +203,7 @@
 
 **Thoughts:** Recursion used and revised
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/step-conversion/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code20.py
 
 
 ### Day 21: November 10, 2020
@@ -213,7 +212,7 @@
 
 **Thoughts:** complex code list revised
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code21.py
 
 
 ### Day 22: November 11, 2020
@@ -222,7 +221,7 @@
 
 **Thoughts:** way of taking string (cool stuff)
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/best-index-1-45a2f8ff/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code22.py
 
 
 ### Day 23: November 12, 2020
@@ -240,7 +239,7 @@
 
 **Thoughts:** Complex
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code23.py
 
 
 ### Day 25: November 14, 2020
@@ -249,7 +248,7 @@
 
 **Thoughts:** Easy one
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code24.c
 
 
 ### Day 26: November 15, 2020
@@ -258,7 +257,7 @@
 
 **Thoughts:** Easy one
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code25.py
 
 
 ### Day 27: November 16, 2020
@@ -267,7 +266,7 @@
 
 **Thoughts:** Easy one
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code26.py
 
 
 ### Day 28: November 17, 2020
@@ -276,7 +275,7 @@
 
 **Thoughts:** Good Question (Complex)
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code27.py
 
 
 
@@ -286,7 +285,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code28.py
 
 
 ### Day 30: November 19, 2020
@@ -295,7 +294,7 @@
 
 **Thoughts:** Bitwise use 
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/description/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code29.py
 
 
 ### Day 31: November 20, 2020
@@ -304,7 +303,7 @@
 
 **Thoughts:** easy
 
-**Link to work:** Coursera Question:(https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code30.py
 
 
 ### Day 32: November 21, 2020
@@ -313,7 +312,7 @@
 
 **Thoughts:** easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code31.py
 
 
 
@@ -323,7 +322,7 @@
 
 **Thoughts:** Need's Imporvement
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/flip-the-door-5/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code32.py
 
 
 
@@ -333,7 +332,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/set-numbers-bea74f5a/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code33.py
 
 
 ### Day 35: November 24, 2020
@@ -342,7 +341,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code34.py
 
 
 ### Day 36: November 25, 2020
@@ -351,7 +350,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** Self 
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code35.py
 
 
 ### Day 36: November 26, 2020
@@ -360,7 +359,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** Self 
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code36.py
 
 
 
@@ -370,7 +369,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code37.py
 
 
 ### Day 38: November 28, 2020
@@ -379,7 +378,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code38.py
 
 
 ### Day 39: November 29, 2020
@@ -388,9 +387,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/
-
-
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code39.c
 
 
 ### Day 40: November 30, 2020
@@ -399,7 +396,7 @@
 
 **Thoughts:** good question
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/baby-ko-base-pasand-h/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code40.py
 
 
 ### Day 41: December 1, 2020
@@ -408,9 +405,7 @@
 
 **Thoughts:** good question
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rubiks-square-2/description/
-
-
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code41.py
 
 
 ### Day 42: December 2, 2020
@@ -419,7 +414,7 @@
 
 **Thoughts:** basic how to use join function
 
-**Link to work:** coursera question (PY4E)
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code42.py
 
 
 ### Day 43: December 3, 2020
@@ -428,7 +423,7 @@
 
 **Thoughts:** really god
 
-**Link to work:** Self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code43.py
 
 
 ### Day 44: December 4, 2020
@@ -437,7 +432,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code44.py
 
 
 ### Day 45: December 5, 2020
@@ -446,7 +441,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** Self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code45.py
 
 
 ### Day 46: December 6, 2020
@@ -455,7 +450,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code46.py
 
 
 
@@ -465,7 +460,7 @@
 
 **Thoughts:** basic implementation (fopen used to try to make file available before using code)
 
-**Link to work:** self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code47.py
 
 
 ### Day 48: December 8, 2020
@@ -474,7 +469,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code48.py
 
 
 
@@ -485,7 +480,7 @@
 
 **Thoughts:** basic implementation OOP
 
-**Link to work:** self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code49.py
 
 
 ### Day 50: December 10, 2020
@@ -494,7 +489,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/its-magic/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code50.py
 
 
 
@@ -504,7 +499,7 @@
 
 **Thoughts:** imp to unserstand question even when it's easy one
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code51.py
 
 
 ### Day 52: December 12, 2020
@@ -513,7 +508,7 @@
 
 **Thoughts:** basic
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/final-destination-cakewalk/description/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code52.py
 
 
 
@@ -523,7 +518,7 @@
 
 **Thoughts:** basic implementation
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/tic-tac-toe-thingy-7ce8b17b/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code53.py
 
 
 
@@ -540,7 +535,7 @@
 
 **Thoughts:** brute method but enjoyed 
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code54.py
 
 
 ### Day 56: December 16, 2020
@@ -549,7 +544,7 @@
 
 **Thoughts:** Easy 
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code55.py
 
 
 ### Day 57: December 17, 2020
@@ -558,7 +553,7 @@
 
 **Thoughts:** taught me that how to get char from ascii
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code56.py
 
 
 
@@ -568,7 +563,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/reflection-is-every-thing-2fff0566/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code57.py
 
 
 ### Day 59: December 19, 2020
@@ -577,7 +572,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code58.py
 
 
 
@@ -587,7 +582,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/submission/51411274/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code59.py
 
 
 ### Day 61: December 21, 2020
@@ -596,7 +591,7 @@
 
 **Thoughts:** Important even when easy
 
-**Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code60.py
 
 
 ### Day 62: December 22, 2020
@@ -605,7 +600,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code61.py
 
 
 
@@ -615,7 +610,7 @@
 
 **Thoughts:** use of xor
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/yet-another-partition-problem/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code62.py
 
 
 ### Day 64: December 24, 2020
@@ -624,7 +619,7 @@
 
 **Thoughts:** use of and operator
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/ankits-no-ed95054d/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code64.py
 
 
 ### Day 65: December 25, 2020
@@ -633,7 +628,7 @@
 
 **Thoughts:** use of pprint anf fprint
 
-**Link to work:** Chuck course
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code64.py
 
 
 ### Day 66: December 26, 2020
@@ -642,7 +637,7 @@
 
 **Thoughts:** taking input while running a condition
 
-**Link to work:** Chuck course
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code65.py
 
 
 ### Day 67: December 27, 2020
@@ -651,7 +646,7 @@
 
 **Thoughts:** Easy and Nice way of printing dictionary
 
-**Link to work:** Chuck course
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code66.py
 
 
 ### Day 68: December 28, 2020
@@ -660,7 +655,7 @@
 
 **Thoughts:** Important even when easy
 
-**Link to work:** https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code67.py
 
 
 ### Day 69: December 29, 2020
@@ -669,7 +664,7 @@
 
 **Thoughts:** Important even when looks too easy
 
-**Link to work:** Self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code68.py
 
 
 
@@ -679,7 +674,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code69.c
 
 
 ### Day 71: December 31, 2020
@@ -688,7 +683,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code70.py
 
 
 ### Day 72: January 1,2021
@@ -697,7 +692,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/easy-multiple/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code71.py
 
 
 ### Day 73: January 2,2021
@@ -706,7 +701,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mathematically-beautiful-numbers-174a158e/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code72.py
 
 
 ### Day 74: January 3,2021
@@ -715,7 +710,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code73.py
 
 
 ### Day 75: January 4,2021
@@ -724,7 +719,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-ciphers/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code74.py
 
 
 ### Day 76: January 5,2021
@@ -733,7 +728,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/batman-and-tick-tack-toe/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code75.py
 
 
 
@@ -743,7 +738,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-date/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code76.py
 
 
 ### Day 78: January 7,2021
@@ -752,7 +747,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-jhool-and-his-breakup/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code77.py
 
 
 ### Day 79: January 8,2021
@@ -761,7 +756,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prateek-and-his-friends/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code78.py
 
 
 ### Day 80: January 9,2021
@@ -770,7 +765,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** Udecity course
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code79.py
 
 
 ### Day 81: January 10,2021
@@ -779,7 +774,7 @@
 
 **Thoughts:** File open question 
 
-**Link to work:** Self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code80.py
 
 
 ### Day 82: January 11,2021
@@ -788,7 +783,7 @@
 
 **Thoughts:** Easy using ceil values 
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/play-despacito/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code81.py
 
 
 ### Day 83: January 12,2021
@@ -797,7 +792,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code82.py
 
 
 ### Day 84: January 13,2021
@@ -806,7 +801,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-sorted-array-ae92a57f/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code83.py
 
 
 ### Day 85: January 14,2021
@@ -815,7 +810,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/title-abhi-socha-nahi/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code84.py
 
 
 
@@ -825,7 +820,7 @@
 
 **Thoughts:** Easy
 
-**Link to work:** Self
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code85.py
 
 
 
@@ -835,7 +830,7 @@
 
 **Thoughts:** Good question
 
-**Link to work:** https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-art-of-verification/submissions/
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code86.py
 
 
 ### Day 88: January 17,2021
@@ -844,7 +839,7 @@
 
 **Thoughts:** Good question
 
-**Link to work:** Py4e
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code87.py
 
 
 ### Day 89: January 18,2021
@@ -853,4 +848,4 @@
 
 **Thoughts:** Basic of Data Structure
 
-**Link to work:** https://classroom.udacity.com/courses/ud513/lessons/7117335401/concepts/78875247320923
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code88.py
