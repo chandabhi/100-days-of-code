@@ -867,3 +867,12 @@
 **Thoughts:** Easy but bit confusing
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code90.py
+
+
+### Day 92: January 21,2021
+
+**Today's Progress** Lambda and dis(Asssembly) functions
+
+**Thoughts:** Easy but bit confusing
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code91.py
