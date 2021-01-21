@@ -290,3 +290,6 @@ Linked List again
 
 ### R1D91
 Pop-Up Orientation
+
+### R1D92
+Lambda and dis(Assembly) functions
