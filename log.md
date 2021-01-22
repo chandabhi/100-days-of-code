@@ -876,3 +876,12 @@
 **Thoughts:** bit confusing and Useful
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code91.py
+
+
+### Day 93: January 22,2021
+
+**Today's Progress** Odd divisors
+
+**Thoughts:** Mathematical use
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code92.py
