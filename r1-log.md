@@ -293,3 +293,6 @@ Pop-Up Orientation
 
 ### R1D92
 Lambda and dis(Assembly) functions
+
+### R1D93
+Odd divisors
