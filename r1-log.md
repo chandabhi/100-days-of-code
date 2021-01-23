@@ -296,3 +296,6 @@ Lambda and dis(Assembly) functions
 
 ### R1D93
 Odd divisors
+
+### R1D94
+K coins only
