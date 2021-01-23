@@ -885,3 +885,13 @@
 **Thoughts:** Mathematical use
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code92.py
+
+
+### Day 94: January 23,2021
+
+**Today's Progress** K coins only
+
+**Thoughts:** Easy
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code93.py
+
