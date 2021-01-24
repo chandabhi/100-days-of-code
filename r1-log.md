@@ -299,3 +299,6 @@ Odd divisors
 
 ### R1D94
 K coins only
+
+### R1D95
+Json used first time 
