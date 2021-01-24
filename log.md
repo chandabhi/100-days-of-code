@@ -895,3 +895,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code93.py
 
+
+### Day 95: January 24,2021
+
+**Today's Progress** Json used first time
+
+**Thoughts:** Easy but useful
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code94.py
+
