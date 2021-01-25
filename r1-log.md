@@ -302,3 +302,6 @@ K coins only
 
 ### R1D95
 Json used first time 
+
+### R1D96
+Image Download using urllib
