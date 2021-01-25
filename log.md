@@ -904,3 +904,11 @@
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code94.py
 
+
+### Day 96: January 25,2021
+
+**Today's Progress** Image Download using urllib
+
+**Thoughts:** Easy but useful
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code95.py
