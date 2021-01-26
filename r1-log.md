@@ -305,3 +305,6 @@ Json used first time
 
 ### R1D96
 Image Download using urllib
+
+### R1D97
+Read arguments
