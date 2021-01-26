@@ -912,3 +912,13 @@
 **Thoughts:** Easy but useful
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code95.py
+
+
+
+### Day 97: January 26,2021
+
+**Today's Progress** Read arguments
+
+**Thoughts:** Can be useful
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code96.py
