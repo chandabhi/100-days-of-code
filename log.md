@@ -922,3 +922,13 @@
 **Thoughts:** Can be useful
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code96.py
+
+
+
+### Day 98: January 27,2021
+
+**Today's Progress** Counting txt files
+
+**Thoughts:** Can be useful
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code97.py
