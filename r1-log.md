@@ -311,3 +311,6 @@ Read arguments
 
 ### R1D98
 Counting txt files
+
+### R1D99
+Series
