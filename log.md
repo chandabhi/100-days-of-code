@@ -932,3 +932,12 @@
 **Thoughts:** Can be useful
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code97.py
+
+
+### Day 99: January 28,2021
+
+**Today's Progress** Series
+
+**Thoughts:** Easy
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code98.py
