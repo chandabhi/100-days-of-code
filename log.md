@@ -941,3 +941,14 @@
 **Thoughts:** Easy
 
 **Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code98.py
+
+
+### Day 100: January 29,2021
+
+**Today's Progress** new print method(Multipication method)
+
+**Thoughts:** Useful
+
+**Link to work:**https://github.com/ANkurNagila/My-Code/blob/main/Code99.py
+
+
