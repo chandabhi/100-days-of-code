@@ -314,3 +314,6 @@ Counting txt files
 
 ### R1D99
 Series
+
+### R1D100
+new print method(Mutiplication table)
