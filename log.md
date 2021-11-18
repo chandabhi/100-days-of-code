@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 1: ,2021
+### Day 1: 18 November ,2021
 
-**Today's Progress** 
+**Today's Progress** first day
 
-**Thoughts:** 
+**Thoughts:** datatypes setting precision
 
-**Link to work:**
+**Link to work:** https://github.com/chandabhi/My_Code_100_days_challenge/blob/main/Code_1/data_types.cpp
 
 
