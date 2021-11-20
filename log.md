@@ -18,3 +18,10 @@
 
 **Link to work:** https://github.com/chandabhi/my-code/blob/main/1%20try%20except.py
 
+### Day 3: 20 November ,2021
+
+**Today's Progress** 3nd day
+
+**Thoughts:** overriding problem
+
+https://github.com/chandabhi/my-code/blob/main/Overriding%20problem
