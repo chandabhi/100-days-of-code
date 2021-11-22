@@ -10,6 +10,7 @@
 
 # 100 Days Of Code - Log
 
+
 ### Day 2: 19 November ,2021
 
 **Today's Progress** 2nd day
@@ -18,9 +19,10 @@
 
 **Link to work:** https://github.com/chandabhi/my-code/blob/main/1%20try%20except.py
 
+
 ### Day 3: 20 November ,2021
 
-**Today's Progress** 3nd day
+**Today's Progress** 3rd day
 
 **Thoughts:** overriding problem
 
@@ -29,9 +31,18 @@ https://github.com/chandabhi/my-code/blob/main/Overriding%20problem
 
 ### Day 4: 21 November ,2021
 
-**Today's Progress** 4nd day
+**Today's Progress** 4th day
 
 **Thoughts:** fibonacci series
 
 https://github.com/chandabhi/my-code/blob/accb18b62f40c6915e7056870acaeb529ce43acc/3%20fibonacci%20series.py
+
+
+### Day 5: 22 November ,2021
+
+**Today's Progress** 5th day
+
+**Thoughts:** array rotation
+
+https://github.com/chandabhi/my-code/blob/e00f9987efa04d5d607ea541ac37a252be5a671b/4%20array%20rotation.py
 
