@@ -31,5 +31,7 @@ https://github.com/chandabhi/my-code/blob/main/Overriding%20problem
 
 **Today's Progress** 4nd day
 
-**Thoughts:** overriding problem
+**Thoughts:** fibonacci series
+
+https://github.com/chandabhi/my-code/blob/accb18b62f40c6915e7056870acaeb529ce43acc/3%20fibonacci%20series.py
 
