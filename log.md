@@ -46,3 +46,10 @@ https://github.com/chandabhi/my-code/blob/accb18b62f40c6915e7056870acaeb529ce43a
 
 https://github.com/chandabhi/my-code/blob/e00f9987efa04d5d607ea541ac37a252be5a671b/4%20array%20rotation.py
 
+### Day : 23 November ,2021
+
+**Today's Progress** 6th day
+
+**Thoughts:**  largest element in an array
+https://github.com/chandabhi/my-code/blob/7cd8290cc67a303ef916a164d1a7b0a7a921a84e/5%20largest%20element%20in%20array.py
+
